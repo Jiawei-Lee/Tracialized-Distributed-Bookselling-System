@@ -48,7 +48,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 69 | 还想看看 |  | 
 | 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 47 | 还想看看 | 
 | 机器学习 | 周志华 | 微小笔记 |  | | 88 | 还没看完 | 
-| 计算理论导引（中文） | Sipser | 新 |  | 计算理论课程教材 | 25 |  | 
+| 计算理论导引（中文） | Sipser | 新 |  | 计算理论课程教材 | 25 | 已出 | 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
 | 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 | TRL | 
@@ -56,7 +56,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Introduction to Algorithms |  | 新 | 打印 |  | 10 | 已出 | 
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
-| 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 66 |  | 
+| 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 66 | 已出 | 
 | Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 |  | 
 | 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
@@ -64,7 +64,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
-| 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 | ZJS | 
+| 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 |  | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein | Guido Weiss | 新 | 影印 | 20 | 
 | Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |  | 
 | Fouriour Analysis | Stein | 新 | 影印 |  | 25 |  | 
@@ -73,7 +73,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
 | Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 |  | 
 | Lecture Notes on Elementary Topology and Geometry | Singer | 新 | 影印 |  | 20 | LQH | 
-| Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 | ZJS | 
+| Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 |  | 
 | Probability and Measure Theory (3ed) | Billingsley | 新 | 影印 |  | 30 |  | 
 | 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
 | General Theory of Relativity | P.A. M. Dirac | 新 | 影印 |  | 10 |  | 
